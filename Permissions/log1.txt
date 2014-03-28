@@ -1,0 +1,3 @@
+01-29 12:40:13.274: I/Lab-Permissions(5831): Entered startBookMarksActivity()
+01-29 12:40:14.454: I/Lab-Permissions(5831): Entered loadBookmarks()
+01-29 12:40:15.474: I/Lab-Permissions(5831): Bookmarks loaded
